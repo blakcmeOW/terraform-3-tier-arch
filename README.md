@@ -14,8 +14,8 @@ To deploy an infrastructure:
 >sudo apt install terraform
 
 2. Initialize Terrform & Validate
->>terraform init
->>terraform validate
+>terraform init
+>terraform validate
 
 *Note: There must be a message showing a success upon running **"terraform init"***
 *Validate first the error and run again the command above*
